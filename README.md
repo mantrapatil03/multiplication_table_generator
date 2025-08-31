@@ -58,3 +58,4 @@ multiplication-table-generator/
 │── multiplication_table_generator.py
 
 │── README.md
+
