@@ -56,4 +56,5 @@ Range less than 1 → Range should be at least 1.
 multiplication-table-generator/
 
 │── multiplication_table_generator.py
+
 │── README.md
