@@ -15,12 +15,12 @@ Ensures the range is at least 1.
 ## 🚀 Getting Started
 
 1. Clone the repository
-2. 
-git clone https://github.com/your-username/multiplication-table-generator.git
+ 
+git clone https://github.com/mantrapatil03/multiplication-table-generator.git
 
 cd multiplication-table-generator
 
-4. Run the script
+2. Run the script
 
 Make sure you have Python 3.x installed.
 
@@ -40,6 +40,7 @@ Multiplication Table for 6 (1 to 12):
 6 x 2 = 12
 
 6 x 3 = 18
+
 ...
 
 6 x 12 = 72
