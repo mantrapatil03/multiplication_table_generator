@@ -59,3 +59,15 @@ multiplication-table-generator/
 
 │── README.md
 
+## 👨‍💻 Author
+
+Mantra Patil
+
+🌐 GitHub: https://github.com/mantrapatil03
+
+💼 LinkedIn: www.linkedin.com/in/mantrapatil25
+
+✉ Email: mantrapatil2007@gmail.com
+
+✨ Thanks for visiting my profile! ✨
+
