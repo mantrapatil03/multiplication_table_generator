@@ -67,7 +67,7 @@ Mantra Patil
 
 💼 LinkedIn: www.linkedin.com/in/mantrapatil25
 
-✉ Email: mantrapatil2007@gmail.com
+✉ Email: techmantrapatil@gmail.com
 
 ✨ Thanks for visiting my profile! ✨
 
