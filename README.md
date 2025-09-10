@@ -2,6 +2,7 @@
 
 A simple Python program that generates multiplication tables for any number up to a given range.
 
+
 ## 📌 Features
 
 Generate multiplication tables for any integer.
