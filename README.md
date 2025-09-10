@@ -53,11 +53,13 @@ Range less than 1 → Range should be at least 1.
 
 📂 Project Structure
 
+```
 multiplication-table-generator/
 
 │── multiplication_table_generator.py
 
 │── README.md
+```
 
 ## 👨‍💻 Author
 
