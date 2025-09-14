@@ -5,8 +5,9 @@ def generate_table(number, upto=10):
     for i in range(1, upto + 1):
         print(f"{number} x {i} = {number * i}")
 
-def main():
+def main(): 
     print("Multiplication Table Generator")
+    
     try:
         number = int(input("Enter the number to generate table for: "))
         upto = int(input("Enter the range (e.g., 10 for 1 to 10): "))
@@ -22,5 +23,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
